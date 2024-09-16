@@ -13,4 +13,4 @@ This project is a web app that helps users manage their daily tasks efficiently.
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/my-awesome-project.git
+   https://github.com/Charbel12323/StockMarketAnalyzer.git
